@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("WLW Plugin to insert GeSHi blocks for server GeSHi processing")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("etaPiscium.net")]
-[assembly: AssemblyProduct("WLWGeSHiBlock")]
+[assembly: AssemblyProduct("WLWGeSHiServerBlocks")]
 [assembly: AssemblyCopyright("Copyright © Alexey Kireyev 2011")]
 [assembly: AssemblyTrademark("η♓")]
 [assembly: AssemblyCulture("")]
