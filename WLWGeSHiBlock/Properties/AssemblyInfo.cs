@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WLWGeSHiBlock")]
+[assembly: AssemblyTitle("WLWGeSHiServerBlocks")]
 [assembly: AssemblyDescription("WLW Plugin to insert GeSHi blocks for server GeSHi processing")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("etaPiscium.net")]
